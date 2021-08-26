@@ -12,8 +12,8 @@ The data files are listed below.
 
 |Git repository|Relevant repository|Download|
 |---|---|---|
-|MicroSS| metric \| trace \| business \| run |[下载](https://github.com/CloudWise-OpenSource/GAIA-DataSet/tree/main/MicroSS)|
-|Companion Data|metric_detection \| metric_forecast \| log|[下载](https://github.com/CloudWise-OpenSource/GAIA-DataSet/tree/main/Companion_Data)|
+|MicroSS| metric \| trace \| business \| run |[MicroSS](https://github.com/CloudWise-OpenSource/GAIA-DataSet/tree/main/MicroSS)|
+|Companion Data|metric_detection \| metric_forecast \| log|[Companion Data](https://github.com/CloudWise-OpenSource/GAIA-DataSet/tree/main/Companion_Data)|
 
 
 ## MicroSS
