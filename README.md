@@ -15,6 +15,13 @@ The data files are listed below.
 |MicroSS| metric \| trace \| business \| run |[MicroSS](https://github.com/CloudWise-OpenSource/GAIA-DataSet/tree/main/MicroSS)|
 |Companion Data|metric_detection \| metric_forecast \| log|[Companion Data](https://github.com/CloudWise-OpenSource/GAIA-DataSet/tree/main/Companion_Data)|
 
+## Chang Log
+ - 2022.05.12 V1.10
+  
+  Previously, we have provided data for July 2021 of MicroSS. As promised before, we are now updating GAIA to V1.10. 
+In this update, we added one-month data for August 2021 from MicroSS to GAIA. The repository structure is maintained, except that we omitted the trace data whose pattern is quite similar to those that have already been published. 
+Another good news is, we are deploying a new business scenario on MicroSS. The new scenario will contain system logs, which are not provided in the current scenario. Meanwhile, monitoring on more commonly used middlewares and databases is supported, including Zookeeper, Redis, MySQL etc. We also designed more anomaly injection methods so as to simulate system faults as real as possible. 
+The next big update of GAIA may be on September 2021, with data from the new scenario. We hope everyone can enjoy the research on the IT operation, and get benifit from GAIA. 
 
 ## MicroSS
 
